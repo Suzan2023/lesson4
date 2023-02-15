@@ -6,3 +6,4 @@ KEK TARIFI:
 5. Uzum
 6. Kakao
 7. Tereyag
+8. Siviyag
